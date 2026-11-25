@@ -9,8 +9,9 @@ import os
 
 SENTENCE = (
     "At Warung Bu Tini in Yogyakarta, the soto ayam came steaming, "
-    "lemongrass and fried shallots in every spoonful, and I ate it "
-    "standing in the rain because every plastic chair was taken."
+    "its broth sharp with lemongrass and fried shallots crackling, "
+    "and I ate it standing in the rain because every plastic chair "
+    "was taken."
 )
 
 
